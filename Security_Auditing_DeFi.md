@@ -8,13 +8,29 @@ Gain deep, practical knowledge of smart contract development and auditing throug
 
 ## 🚩 Flag 1 — Smart Contract Security, Audit & DeFi Full Course by Cyfrin Updraft
 
-- 🔗 YouTube: [Watch Here](https://www.youtube.com/watch?v=pUWmJ86X_do)
-- 🔗 Updraft: 
-  - https://updraft.cyfrin.io/courses/security
-- 📂 See full breakdown in: `Cyfrin_Security_DeFi_Course.md`
-  
+* 🔗 YouTube: [Watch Here](https://www.youtube.com/watch?v=pUWmJ86X_do)
+* 🔗 Updraft:
+
+  * [https://updraft.cyfrin.io/courses/security](https://updraft.cyfrin.io/courses/security)
+
+## 🗂 Course Sections
+
+* ✅ Section 0: Welcome
+* ✅ Section 1: Refresher
+* ✅ Section 2: What is a Smart Contract Audit?
+* ✅ Section 3: PasswordStore — Your First Audit
+* ✅ Section 4: PuppyRaffle — Manual & Static Analysis
+* ✅ Section 5: T-Swap — DeFi Vulnerabilities
+* ✅ Section 6: Thunder Loan — Proxies & Oracles
+* ✅ Section 7: Boss Bridge — Signature Exploits
+* ✅ Section 8: MEV & Governance
+
 ---
 
-## 🔗 Resources
+## 📂 Notes
 
-- [Cyfrin GitHub Repo](https://github.com/Cyfrin/security-and-auditing-full-course-s23)
+* Use Slither, Echidna, and manual fuzz testing.
+* Common patterns: Reentrancy, improper access control, integer overflow/underflow, denial of service, etc.
+* Learn to write audit reports.
+
+---
