@@ -4,23 +4,23 @@ Welcome to the comprehensive blockchain mastery roadmap! This repository contain
 
 ## 🚀 Getting Started
 
-1. Start with [Phase 1](Phase1_Foundational_Learning.md) for foundational knowledge
+1. Start with [Phase 1](Foundational_Learning.md) for foundational knowledge
 2. Follow the recommended courses for structured learning
 3. Practice with CTFs and real-world projects
 
 ## 📚 Learning Phases
 
-### [🧪 Phase 1: Foundational Learning](Phase1_Foundational_Learning.md)
+### [🧪 Phase 1: Foundational Learning](Foundational_Learning.md)
 Gain a solid understanding of Solidity, Foundry, and smart contract development through hands-on projects.
 
-### [🔐 Phase 2: Security & Auditing](Phase2_Security_Auditing.md) 
+### [🔐 Phase 2: Security & Auditing](Security_Auditing_DeFi.md) 
 Learn vulnerability assessment, auditing methodologies, and security best practices for smart contracts.
 
-### [⚙️ Phase 3: Advanced Topics](Phase3_Advanced_Topics.md)
-Master EVM internals, assembly programming, formal verification, and zero-knowledge proofs.
+### [⚙️ Phase 3: Assembly, EVM Opcodes & Formal Verification](Advanced_Topics.md)
+Become a top 10% dev & auditor by mastering EVM internals, assembly programming and formal verification.
 
-### [🎯 Phase 4: Specialized Applications](Phase4_Specialized_Applications.md)
-Deep dive into DeFi protocols, perpetual trading systems, and real-world implementation patterns.
+### [🎯 Phase 4: ZK Proofs, GMX Perpetuals](ZK_Proofs_GMX_Perpetuals.md.md)
+Deep dive into DeFi protocols, perpetual trading systems, and real-world implementation patterns along with ZK Proofs.
 
 ## 📖 Featured Courses
 
