@@ -12,7 +12,6 @@ Delve into the Ethereum Virtual Machine (EVM), assembly language, and formal ver
 
 * 🔗 YouTube: [Assembly & Formal Verification EVM Full Course](https://www.youtube.com/watch?v=Y3WMkl0AFJk)
 * 🔗 Updraft:
-
   * [https://updraft.cyfrin.io/courses/formal-verification](https://updraft.cyfrin.io/courses/formal-verification)
 * 📂 See full breakdown in: `Courses/Cyfrin_Assembly_Formal_Verification.md`
 
