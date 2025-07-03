@@ -19,7 +19,7 @@ Learn vulnerability assessment, auditing methodologies, and security best practi
 ### [⚙️ Phase 3: Assembly, EVM Opcodes & Formal Verification](Advanced_Topics.md)
 Become a top 10% dev & auditor by mastering EVM internals, assembly programming and formal verification.
 
-### [🎯 Phase 4: ZK Proofs, GMX Perpetuals](ZK_Proofs_GMX_Perpetuals.md.md)
+### [🎯 Phase 4: ZK Proofs, GMX Perpetuals](ZK_Proofs_GMX_Perpetuals.md)
 Deep dive into DeFi protocols, perpetual trading systems, and real-world implementation patterns along with ZK Proofs.
 
 ## 📖 Featured Courses
