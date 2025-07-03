@@ -1,4 +1,4 @@
-# 🧪 Phase 4: Advanced Topics — Noir & GMX Perpetuals Trading
+# 🧪 Phase 4: Advanced Topics — ZK Proofs, Noir Programming Language & GMX Perpetuals Trading
 
 **⚠️ To be in the top 1% of blockchain or DeFi developers and auditors, mastering zero-knowledge proofs and advanced DeFi derivatives is essential.**
 
