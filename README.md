@@ -9,7 +9,10 @@ Welcome to the comprehensive blockchain mastery roadmap! This repository contain
 
 ## 📚 Learning Phases
 - [Phase 1: Foundational Learning](Phase1_Foundational_Learning.md)
+  - Gain a solid understanding of Solidity, Foundry, and smart contract development through hands-on projects.
 - [Phase 2: Solidity Auditing](Phase2_Auditing_DeFi.md)
+  - Gain deep, practical knowledge of smart contract development and auditing through real-world projects and expert-led guidance.
+
 
 
 
