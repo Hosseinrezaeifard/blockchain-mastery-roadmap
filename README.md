@@ -22,6 +22,22 @@ Become a top 10% dev & auditor by mastering EVM internals, assembly programming 
 ### [🎯 Phase 4: ZK Proofs, GMX Perpetuals](ZK_Proofs_GMX_Perpetuals.md.md)
 Deep dive into DeFi protocols, perpetual trading systems, and real-world implementation patterns along with ZK Proofs.
 
+## 📋 Quick Reference Cheatsheets
+
+### Core Development
+- [🔧 Solidity](CHEATSHEETS/Solidity.md) - Language syntax, patterns, and best practices
+- [🔗 Blockchain](CHEATSHEETS/Blockchain.md) - Core concepts, consensus mechanisms, and Ethereum fundamentals
+- [⚙️ EVM Opcodes](CHEATSHEETS/Evm_Opcodes_Encoding.md) - Low-level EVM operations and gas costs
+- [🛠️ Foundry](CHEATSHEETS/Foundry,md) - Development framework commands and testing patterns
+
+### Security & Cryptography
+- [🔐 Security](CHEATSHEETS/Security.md) - Common vulnerabilities, attack patterns, and mitigation strategies
+- [🌳 Merkle Trees & Signatures](CHEATSHEETS/Merkle_Trees_Signatures.md) - Cryptographic primitives and digital signatures
+
+### DeFi & Infrastructure
+- [💰 DeFi](CHEATSHEETS/DeFi.md) - Protocol mechanics, AMM formulas, and yield farming strategies
+- [🔮 Oracles](CHEATSHEETS/Oracles.md) - Price feeds, VRF, and external data integration patterns
+
 ## 📖 Featured Courses
 
 ### Core Development
