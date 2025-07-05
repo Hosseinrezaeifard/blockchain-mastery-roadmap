@@ -23,7 +23,6 @@ Become a top 10% dev & auditor by mastering EVM internals, assembly programming 
 Deep dive into DeFi protocols, perpetual trading systems, and real-world implementation patterns along with ZK Proofs.
 
 ## 📋 Quick Reference Cheatsheets
-
 ### Core Development
 - [🔧 Solidity](CHEATSHEETS/Solidity.md) - Language syntax, patterns, and best practices
 - [🔗 Blockchain](CHEATSHEETS/Blockchain.md) - Core concepts, consensus mechanisms, and Ethereum fundamentals
