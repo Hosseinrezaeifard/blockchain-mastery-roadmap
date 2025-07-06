@@ -27,7 +27,8 @@ Deep dive into DeFi protocols, perpetual trading systems, and real-world impleme
 - [🔧 Solidity](CHEATSHEETS/Solidity.md) - Language syntax, patterns, and best practices
 - [🔗 Blockchain](CHEATSHEETS/Blockchain.md) - Core concepts, consensus mechanisms, and Ethereum fundamentals
 - [⚙️ EVM Opcodes](CHEATSHEETS/Evm_Opcodes_Encoding.md) - Low-level EVM operations and gas costs
-- [🛠️ Foundry](CHEATSHEETS/Foundry,md) - Development framework commands and testing patterns
+- [🛠️ Foundry](CHEATSHEETS/Foundry.md) - Development framework commands and testing patterns
+- [🛠️ ZK - Account Abstraction](CHEATSHEETS/ZK-Account-Abstraction.md) - Account Abstraction & Layer 2 ZkSync protocol
 
 ### Security & Cryptography
 - [🔐 Security](CHEATSHEETS/Security.md) - Common vulnerabilities, attack patterns, and mitigation strategies
