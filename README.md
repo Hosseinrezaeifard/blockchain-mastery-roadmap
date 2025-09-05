@@ -99,6 +99,7 @@ Deep dive into DeFi protocols, perpetual trading systems, and real-world impleme
 - **[Ethereum Research](https://ethresear.ch/)** - Cutting-edge Ethereum research
 - **[DeFi Safety](https://defisafety.com/)** - DeFi protocol security ratings
 - **[Rekt News](https://rekt.news/)** - Learn from DeFi hacks and exploits
+- **[Bankless](https://www.bankless.com/)** - News, articles, podcast, tools and more
 
 ### 📚 Continuous Learning
 
